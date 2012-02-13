@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ews_shortestpath/!svn/ver/53/trunk/src/ShortestPath.Core/Services
+END
+StitchingService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ews_shortestpath/!svn/ver/27/trunk/src/ShortestPath.Core/Services/StitchingService.cs
+END
+GPXService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ews_shortestpath/!svn/ver/53/trunk/src/ShortestPath.Core/Services/GPXService.cs
+END
+LogService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ews_shortestpath/!svn/ver/48/trunk/src/ShortestPath.Core/Services/LogService.cs
+END
+RouteTimeCacheService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ews_shortestpath/!svn/ver/38/trunk/src/ShortestPath.Core/Services/RouteTimeCacheService.cs
+END
+RoadPathService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ews_shortestpath/!svn/ver/39/trunk/src/ShortestPath.Core/Services/RoadPathService.cs
+END
+DirectionsService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ews_shortestpath/!svn/ver/39/trunk/src/ShortestPath.Core/Services/DirectionsService.cs
+END
+ConfigService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ews_shortestpath/!svn/ver/1/trunk/src/ShortestPath.Core/Services/ConfigService.cs
+END
+DBC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ews_shortestpath/!svn/ver/11/trunk/src/ShortestPath.Core/Services/DBC.cs
+END

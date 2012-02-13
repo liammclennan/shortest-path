@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/nant/lib/common/neutral
+END
+NUnitCore.dll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/nant/lib/common/neutral/NUnitCore.dll
+END
+ICSharpCode.SharpZipLib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/nant/lib/common/neutral/ICSharpCode.SharpZipLib.dll
+END
+ICSharpCode.SharpCvsLib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/nant/lib/common/neutral/ICSharpCode.SharpCvsLib.dll
+END
+ICSharpCode.SharpCvsLib.Console.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/nant/lib/common/neutral/ICSharpCode.SharpCvsLib.Console.dll
+END

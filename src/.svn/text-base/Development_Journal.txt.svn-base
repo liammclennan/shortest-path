@@ -1,0 +1,94 @@
+----------
+2009-09-16
+----------
+
+WORKED ON:
+
+Upgraded pin icon. Added numbering. Re-added google analytics. Entered tasks in pivotal tracker (http://www.pivotaltracker.com/projects/26734#)
+
+
+NEXT THING TO DO:
+
+Improve reporting for failed geocodes.
+
+
+TESTS:
+
+75 passed, 0 failed, 1 skipped, took 22.80 seconds (NUnit 2.4).
+
+----------
+2009-09-14
+----------
+
+WORKING ON:
+
+Deployed public preview. Plots points and draws lines between from and two points. 
+
+
+NEXT THING TO DO:
+
+Test stitching more than two cycles. After stitching make sure the routes are ordered so that they are navigable (ie each To should be the corresponding next start). Plot proper road routes.
+Improve output of result. Provide export to GPS devices.
+
+
+TESTS:
+
+72 passed, 1 failed, 1 skipped, took 13.97 seconds (NUnit 2.4).
+
+
+----------
+2009-09-08
+----------
+
+WORKING ON:
+
+Basic stitching is happening. 
+
+
+NEXT THING TO DO:
+
+Test stitching more than two cycles. After stitching make sure the routes are ordered so that they are navigable (ie each To should be the corresponding next start).
+
+
+TESTS:
+
+72 passed, 1 failed, 1 skipped, took 13.97 seconds (NUnit 2.4).
+
+
+----------
+2009-08-22
+----------
+
+WORKING ON:
+
+Finished the graph navigator get cycles. Started on stitching.
+
+
+NEXT THING TO DO:
+
+Complete the stitching of cycles. See TODOs in StitchingService.
+
+
+TESTS:
+
+69 passed, 2 failed, 1 skipped, took 13.7 seconds
+
+
+----------
+2009-08-19
+----------
+
+WORKING ON:
+
+Testing the graph navigator code that produces cycles. Discovered and addressed a few edge cases such as non-cyclic journeys where the shortest spanning tree visits every node.
+
+
+NEXT THING TO DO:
+
+Complete the scenarios in BuildingCyclesTests using the style of the first two already completed scenarios.
+
+
+TESTS:
+
+63 passed, 0 failed, 1 skipped, took 13.21 seconds
+

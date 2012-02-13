@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ews_shortestpath/!svn/ver/48/trunk/src/ShortestPath.Core/Domain
+END
+ThreadCache.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ews_shortestpath/!svn/ver/48/trunk/src/ShortestPath.Core/Domain/ThreadCache.cs
+END
+GraphNavigator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ews_shortestpath/!svn/ver/23/trunk/src/ShortestPath.Core/Domain/GraphNavigator.cs
+END
+GraphNavigationState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ews_shortestpath/!svn/ver/20/trunk/src/ShortestPath.Core/Domain/GraphNavigationState.cs
+END
+Directions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ews_shortestpath/!svn/ver/27/trunk/src/ShortestPath.Core/Domain/Directions.cs
+END
+Edge.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ews_shortestpath/!svn/ver/24/trunk/src/ShortestPath.Core/Domain/Edge.cs
+END
+DirectedGraph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ews_shortestpath/!svn/ver/24/trunk/src/ShortestPath.Core/Domain/DirectedGraph.cs
+END
+GeographyService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ews_shortestpath/!svn/ver/23/trunk/src/ShortestPath.Core/Domain/GeographyService.cs
+END
+LatLon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ews_shortestpath/!svn/ver/1/trunk/src/ShortestPath.Core/Domain/LatLon.cs
+END
+Point.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ews_shortestpath/!svn/ver/16/trunk/src/ShortestPath.Core/Domain/Point.cs
+END

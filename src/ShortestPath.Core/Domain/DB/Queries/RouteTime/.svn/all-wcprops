@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ews_shortestpath/!svn/ver/38/trunk/src/ShortestPath.Core/Domain/DB/Queries/RouteTime
+END
+RouteTimeQuery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ews_shortestpath/!svn/ver/38/trunk/src/ShortestPath.Core/Domain/DB/Queries/RouteTime/RouteTimeQuery.cs
+END

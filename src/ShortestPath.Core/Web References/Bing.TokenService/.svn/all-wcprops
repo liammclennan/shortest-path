@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Web%20References/Bing.TokenService
+END
+common.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Web%20References/Bing.TokenService/common.wsdl
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Web%20References/Bing.TokenService/Reference.cs
+END
+DataSource.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Web%20References/Bing.TokenService/DataSource.datasource
+END
+EntityType.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Web%20References/Bing.TokenService/EntityType.datasource
+END
+Reference.map
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Web%20References/Bing.TokenService/Reference.map
+END
+VersionInfo.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Web%20References/Bing.TokenService/VersionInfo.datasource
+END
+CountryRegionInfo.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Web%20References/Bing.TokenService/CountryRegionInfo.datasource
+END

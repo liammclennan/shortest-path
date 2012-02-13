@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ews_shortestpath/!svn/ver/53/trunk/database
+END
+create.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ews_shortestpath/!svn/ver/41/trunk/database/create.sql
+END
+searches_by_day.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ews_shortestpath/!svn/ver/53/trunk/database/searches_by_day.sql
+END

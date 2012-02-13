@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ews_shortestpath/!svn/ver/39/trunk/src/ShortestPath.Test/Slow
+END
+GraphNavigatorTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ews_shortestpath/!svn/ver/39/trunk/src/ShortestPath.Test/Slow/GraphNavigatorTests.cs
+END
+Db.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ews_shortestpath/!svn/ver/39/trunk/src/ShortestPath.Test/Slow/Db.cs
+END
+RoadPathServiceTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ews_shortestpath/!svn/ver/39/trunk/src/ShortestPath.Test/Slow/RoadPathServiceTests.cs
+END
+DirectionsServiceTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ews_shortestpath/!svn/ver/12/trunk/src/ShortestPath.Test/Slow/DirectionsServiceTests.cs
+END
+Data.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ews_shortestpath/!svn/ver/38/trunk/src/ShortestPath.Test/Slow/Data.cs
+END

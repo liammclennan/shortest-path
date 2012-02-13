@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ews_shortestpath/!svn/ver/43/trunk/database/schema_changes/applied_on_server
+END
+40_Log.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ews_shortestpath/!svn/ver/43/trunk/database/schema_changes/applied_on_server/40_Log.sql
+END

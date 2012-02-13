@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ews_shortestpath/!svn/ver/38/trunk/src/ShortestPath.Test/Creators
+END
+DesMoinesRoadService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ews_shortestpath/!svn/ver/38/trunk/src/ShortestPath.Test/Creators/DesMoinesRoadService.cs
+END
+IBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ews_shortestpath/!svn/ver/38/trunk/src/ShortestPath.Test/Creators/IBuilder.cs
+END
+GraphMother.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ews_shortestpath/!svn/ver/27/trunk/src/ShortestPath.Test/Creators/GraphMother.cs
+END
+ChannelDelanceyBeckwithThornlandsRoadService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ews_shortestpath/!svn/ver/38/trunk/src/ShortestPath.Test/Creators/ChannelDelanceyBeckwithThornlandsRoadService.cs
+END
+ChannelEthelBurchellRoadService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ews_shortestpath/!svn/ver/38/trunk/src/ShortestPath.Test/Creators/ChannelEthelBurchellRoadService.cs
+END
+RouteTimeBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ews_shortestpath/!svn/ver/38/trunk/src/ShortestPath.Test/Creators/RouteTimeBuilder.cs
+END
+PointMother.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ews_shortestpath/!svn/ver/27/trunk/src/ShortestPath.Test/Creators/PointMother.cs
+END

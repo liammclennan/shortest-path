@@ -1,0 +1,122 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	
+	Shortest Path
+
+</title><link href="../../Content/Site.css" rel="stylesheet" type="text/css" />    
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="ArrayExtensions.js"></script>
+    <script type="text/javascript" src="Debug.js"></script>    
+    <script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAAQxP7np77khzud-Ti2zePXRQLtxigWS8u5X4YxxcnaqCLKBVe7RQ3Vs41GTYt7WZbg48G6-RkIn0J8A&sensor=false" type="text/javascript"></script>
+    <script type="text/javascript" src="GMap2Extensions.js"></script>
+    <script type="text/javascript" src="Map.js"></script>
+</head>
+
+<body>
+    <div class="page">
+
+        <div id="header">
+            <div id="title">
+                <h1>My MVC Application</h1>
+            </div>              
+                       
+            <div id="menucontainer">
+            
+                <ul id="menu">              
+                    <li><a href="/">Home</a></li>
+                </ul>
+            
+            </div>
+        </div>
+
+        <div id="main">
+            
+
+    <h2>Shortest Path</h2>
+
+    <div id="inputs" style="float:left;">
+        <h3>Addresses</h3>
+<form id="addressForm">
+        <table id="input">
+            <tr><td>Start:</td><td><input class="addressInput" id="Address1" name="Address" type="text" value="" /></td></tr>
+            <tr><td></td><td><input class="addressInput" id="Address2" name="Address" type="text" value="" /></td></tr>
+            <tr><td></td><td><input class="addressInput" id="Address3" name="Address" type="text" value="" /></td></tr>
+            <tr><td></td><td><input class="addressInput" id="Address4" name="Address" type="text" value="" /></td></tr>
+            <tr><td></td><td><input class="addressInput" id="Address5" name="Address" type="text" value="" /></td></tr>
+            <tr><td>End:</td><td><input class="addressInput" id="Address6" name="Address" type="text" value="" /></td></tr>
+        </table>
+        <input id="Show" name="Show" onclick="showOnMapClick();" type="submit" value="Show on Map" /> <input id="Path" name="Path" onclick="findShortestPathClick();" type="submit" value="Find Shortest Path" />
+</form>
+    </div>
+
+    <div id="map_canvas" style="width: 400px; height: 400px; float: right;"></div>
+
+<script type="text/javascript">
+
+    $(document).ready(function() {
+        MAP.map = MAP.init("map_canvas");
+        $('#addressForm').submit(addressForm_submit);
+        setAjaxFormBehaviour();
+    });
+
+    // stop the synchronous form submission
+    function addressForm_submit() {
+        return false;
+    }
+
+    function showOnMapClick() {
+//        var addresses = $('.addressInput').get()
+//            .where(function(element) { return $(element).val() !== ""; })
+//            .collect(function(element) { return $(element).val(); });
+//       
+//        MAP.directions = new GDirections(MAP.map);
+//        MAP.directions.loadFromWaypoints(addresses);
+
+        MAP.geocode('.addressInput', function() { });
+
+    }
+
+    function findShortestPathClick() {
+        if (MAP.points !== undefined) {
+            submitFindShortestPath();
+        } else {
+            submitAddresses(function(points) {
+                MAP.points = points;
+                submitFindShortestPath();
+            });
+        }
+    }
+
+    // ajax form submission to the server to find the shortest path
+    function submitFindShortestPath() {
+        var url = '/Home/FindShortestPath';
+        $.getJSON(url, { points: MAP.points }, function() {
+            
+        });
+    }
+
+    function submitAddresses(callback) {
+        $.getJSON('/Home/SubmitAddresses', $('#addressForm').serialize(), callback);
+    }
+    function setAjaxFormBehaviour() {
+        jQuery().ajaxStart(function() {
+            $('#addressForm').fadeOut("slow");
+        });
+        jQuery().ajaxStop(function() {
+            $('#addressForm').fadeIn("fast");
+        });
+    }
+</script>
+
+
+
+            <div id="footer">
+            </div>
+        </div>
+    </div>
+</body>
+</html>

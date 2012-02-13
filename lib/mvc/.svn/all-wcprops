@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/mvc
+END
+Microsoft.Web.Mvc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/mvc/Microsoft.Web.Mvc.dll
+END
+MvcContrib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/mvc/MvcContrib.dll
+END
+MvcContrib.FluentHtml.dll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/mvc/MvcContrib.FluentHtml.dll
+END
+Rhino.Mocks.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/mvc/Rhino.Mocks.dll
+END
+MvcContrib.FluentHtml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/mvc/MvcContrib.FluentHtml.xml
+END
+MvcContrib.FluentHtml.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/mvc/MvcContrib.FluentHtml.pdb
+END
+MvcContrib.TestHelper.dll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/mvc/MvcContrib.TestHelper.dll
+END
+System.Web.Mvc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/mvc/System.Web.Mvc.dll
+END

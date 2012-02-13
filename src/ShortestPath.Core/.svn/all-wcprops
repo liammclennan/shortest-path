@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ews_shortestpath/!svn/ver/53/trunk/src/ShortestPath.Core
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/app.config
+END
+ShortestPath.Core.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ews_shortestpath/!svn/ver/51/trunk/src/ShortestPath.Core/ShortestPath.Core.csproj
+END

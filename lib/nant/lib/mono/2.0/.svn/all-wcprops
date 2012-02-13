@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/nant/lib/mono/2.0
+END
+NDoc.Documenter.Msdn.dll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/nant/lib/mono/2.0/NDoc.Documenter.Msdn.dll
+END
+nunit.framework.dll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/nant/lib/mono/2.0/nunit.framework.dll
+END
+nunit.util.dll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/nant/lib/mono/2.0/nunit.util.dll
+END
+NDoc.Core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/nant/lib/mono/2.0/NDoc.Core.dll
+END
+NDoc.ExtendedUI.dll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/nant/lib/mono/2.0/NDoc.ExtendedUI.dll
+END
+nunit.core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/nant/lib/mono/2.0/nunit.core.dll
+END

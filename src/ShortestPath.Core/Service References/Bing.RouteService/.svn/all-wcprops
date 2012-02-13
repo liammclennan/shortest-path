@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Service%20References/Bing.RouteService
+END
+routeservice3.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Service%20References/Bing.RouteService/routeservice3.xsd
+END
+ShortestPath.Core.Bing.RouteService.RouteResponse.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Service%20References/Bing.RouteService/ShortestPath.Core.Bing.RouteService.RouteResponse.datasource
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Service%20References/Bing.RouteService/Reference.cs
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Service%20References/Bing.RouteService/Reference.svcmap
+END
+RouteService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Service%20References/Bing.RouteService/RouteService.wsdl
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Service%20References/Bing.RouteService/configuration91.svcinfo
+END
+routeservice1.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Service%20References/Bing.RouteService/routeservice1.wsdl
+END
+ShortestPath.Core.Bing.RouteService.MajorRoutesResponse.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Service%20References/Bing.RouteService/ShortestPath.Core.Bing.RouteService.MajorRoutesResponse.datasource
+END
+routeservice.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Service%20References/Bing.RouteService/routeservice.xsd
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Service%20References/Bing.RouteService/configuration.svcinfo
+END
+routeservice1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Service%20References/Bing.RouteService/routeservice1.xsd
+END
+routeservice2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ews_shortestpath/!svn/ver/15/trunk/src/ShortestPath.Core/Service%20References/Bing.RouteService/routeservice2.xsd
+END

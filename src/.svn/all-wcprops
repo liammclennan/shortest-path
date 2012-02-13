@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ews_shortestpath/!svn/ver/53/trunk/src
+END
+copyifnewer.bat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ews_shortestpath/!svn/ver/1/trunk/src/copyifnewer.bat
+END
+ShortestPath.sln
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ews_shortestpath/!svn/ver/22/trunk/src/ShortestPath.sln
+END
+Development_Journal.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ews_shortestpath/!svn/ver/30/trunk/src/Development_Journal.txt
+END

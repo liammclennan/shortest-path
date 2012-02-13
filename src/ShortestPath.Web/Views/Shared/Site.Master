@@ -1,0 +1,76 @@
+<%@ Import Namespace="ShortestPath.Core.Services"%>
+<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
+    <link href="../../Content/Site.css" rel="stylesheet" type="text/css" />    
+    <link href="../../Content/jQueryCSS/jquery-ui-1.7.2.custom.css" rel="stylesheet" type="text/css" />    
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <script type="text/javascript" src="<%= Url.Content("~/Content/Scripts/jquery-ui-1.7.2.custom.min.js") %>"></script>
+    <script type="text/javascript" src="<%= Url.Content("~/Content/Scripts/ArrayExtensions.js") %>"></script>
+    <script type="text/javascript" src="<%= Url.Content("~/Content/Scripts/Debug.js") %>"></script>    
+    <script src="http://maps.google.com/maps?file=api&v=2&key=<%= new ConfigService().GoogleMapsAPIKey() %>&sensor=false" type="text/javascript"></script>
+    <script type="text/javascript" src="<%= Url.Content("~/Content/Scripts/GMap2Extensions.js") %>"></script>
+    <script type="text/javascript" src="<%= Url.Content("~/Content/Scripts/Map.js") %>"></script>
+    <script type="text/javascript" src="<%= Url.Content("~/Content/Scripts/GPX.js") %>"></script>
+    <script type="text/javascript" src="<%= Url.Content("~/Content/Scripts/json2.js") %>"></script>
+    <script type="text/javascript" src="<%= Url.Content("~/Content/Scripts/jquery.qtip-1.0.0-rc3.min.js") %>"></script>
+    <script type="text/javascript" src="<%= Url.Content("~/Content/Scripts/jquery.spTip.js") %>"></script>
+    <script type="text/javascript" src="<%= Url.Content("~/Content/Scripts/Help.js") %>"></script>
+    <link rel="icon" type="image/png" href="<%= Url.Content("~/Content/Images/favicon.png") %>" />
+    <link rel="SHORTCUT ICON" href="<%= Url.Content("~/Content/Images/favicon.ico") %>"/>
+    <meta name="description" content="TheFastWay.Net is a route optimizer and trip planner. It helps you plan the most efficient path in which to visit a number of destinations. R" />
+    <meta name="keywords" content="route planner, route optimizer, shortest path, shortest route, route finder" />
+    <meta name="google-site-verification" content="Kq3sTYt2ifClxxA4GQfS6eIsy0X0TDowLpmefHRS-Sg" />
+</head>
+
+<body>
+    <div class="page">
+
+        <div id="main">
+            <img style="width: 454px; height: 56px;" src="<%= Url.Content("~/Content/Images/thefastway.gif") %>" align="middle" alt="TheFastWay.net" /> Find the fastest route between any number of destinations.
+        
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+
+            <div id="footer">
+            <h1>Route Planner</h1>
+<p>TheFastWay.Net is a route optimizer and trip planner. It helps you plan the most efficient path in which to visit a number of destinations. Simply enter the addresses you are interested in, then tell TheFastWay.Net to 'Find Shortest Path' and it will return the fastest path that visits all of your locations.</p>
+
+<p>The first address entered will always be taken as the starting point. The last address entered will be used as the end point. The points in between will be arranged in the most efficient order possible. Save time and money by driving the shortest distance possible.</p>
+            
+            
+<p>TheFastWay.Net route calculator is proudly developed by <a href="http://www.eclipsewebsolutions.com.au">Eclipse Web Solutions</a>.  </p>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1572176-6");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+        </div>
+    </div>
+    <script type="text/javascript">
+  var uservoiceJsHost = ("https:" == document.location.protocol) ? "https://uservoice.com" : "http://cdn.uservoice.com";
+  document.write(unescape("%3Cscript src='" + uservoiceJsHost + "/javascripts/widgets/tab.js' type='text/javascript'%3E%3C/script%3E"))
+</script>
+<script type="text/javascript">
+UserVoice.Tab.show({ 
+  /* required */
+  key: 'shortestpath',
+  host: 'shortestpath.uservoice.com', 
+  forum: '29130', 
+  /* optional */
+  alignment: 'left',
+  background_color:'#f00', 
+  text_color: 'white',
+  hover_color: '#06C',
+  lang: 'en'
+})
+</script>
+</body>
+</html>

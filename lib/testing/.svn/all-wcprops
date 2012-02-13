@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/testing
+END
+nunit.framework.dll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/testing/nunit.framework.dll
+END
+SpecUnit.Report.exe
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/testing/SpecUnit.Report.exe
+END
+SpecUnit.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/testing/SpecUnit.dll
+END
+Moq.Contrib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/testing/Moq.Contrib.dll
+END
+Moq.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/testing/Moq.dll
+END
+System.Data.SQLite.DLL
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ews_shortestpath/!svn/ver/1/trunk/lib/testing/System.Data.SQLite.DLL
+END

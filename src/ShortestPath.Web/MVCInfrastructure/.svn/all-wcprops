@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ews_shortestpath/!svn/ver/11/trunk/src/ShortestPath.Web/MVCInfrastructure
+END
+PointsModelBinder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ews_shortestpath/!svn/ver/11/trunk/src/ShortestPath.Web/MVCInfrastructure/PointsModelBinder.cs
+END
+StructureMapControllerFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ews_shortestpath/!svn/ver/1/trunk/src/ShortestPath.Web/MVCInfrastructure/StructureMapControllerFactory.cs
+END

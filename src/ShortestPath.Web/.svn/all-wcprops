@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ews_shortestpath/!svn/ver/52/trunk/src/ShortestPath.Web
+END
+Global.asax.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ews_shortestpath/!svn/ver/38/trunk/src/ShortestPath.Web/Global.asax.cs
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ews_shortestpath/!svn/ver/52/trunk/src/ShortestPath.Web/Web.config
+END
+Default.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ews_shortestpath/!svn/ver/1/trunk/src/ShortestPath.Web/Default.aspx.cs
+END
+ShortestPath.Web.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ews_shortestpath/!svn/ver/50/trunk/src/ShortestPath.Web/ShortestPath.Web.csproj
+END
+Global.asax
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ews_shortestpath/!svn/ver/1/trunk/src/ShortestPath.Web/Global.asax
+END
+Default.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ews_shortestpath/!svn/ver/1/trunk/src/ShortestPath.Web/Default.aspx
+END

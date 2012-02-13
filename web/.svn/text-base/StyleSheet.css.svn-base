@@ -1,0 +1,41 @@
+﻿body 
+{
+	font-family: verdana;
+	
+	color: #474644;
+}
+
+h1,h2
+{ 
+	color: #6A3D37;
+	font-weight: bolder;
+	font-family: Consolas;
+}
+
+ol li
+{
+	margin: 0px 5px 10px 5px;
+}
+
+.instructions
+{
+	background-color: #E0D8CB;
+	width: 80%;
+	margin: auto;
+	padding: 5px;
+	border: solid 10px #8C968E;
+}
+
+.note
+{
+font-size: 0.9em;	
+font-style: italic;
+}
+
+#footer
+{
+	padding-top: 15px;
+	text-align: center;
+	margin: auto;
+	font-size: 0.8em;	
+}
