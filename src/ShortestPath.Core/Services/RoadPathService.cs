@@ -82,7 +82,7 @@ Points:
             {
                 // Set Bing Maps Developer Account credentials to access the Token Service
                 CommonService commonService = new CommonService();
-                commonService.Credentials = new System.Net.NetworkCredential("143600", "R&]0yHu>");
+                commonService.Credentials = new System.Net.NetworkCredential("******", "********");
 
                 // Set the token specification properties
                 TokenSpecification tokenSpec = new TokenSpecification();
